@@ -1,0 +1,10 @@
+Git Commands:
+
+"git config --global user.name" -- Used to set user name
+"git config --global user.email" -- Used to set user email
+"git config --list" -- Used to get all the details
+
+git config user.name -- get user name
+git config user.email -- get user email
+
+
