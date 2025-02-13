@@ -8,3 +8,20 @@ git config user.name -- get user name
 git config user.email -- get user email
 
 
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Saravanan-dev-create/learning-notes.git
+git push -u origin master
+git status
+
+Stages of Git:
+* Working directory
+* Staging directory
+* Remote/Origin directory
+
+Stages of Tracked file:
+* Commited
+* Modified
+* Staged
+
